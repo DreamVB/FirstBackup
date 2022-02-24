@@ -4,7 +4,8 @@ Ben’s First Backup is a simple utility for Microsoft Windows that will allow a
 Using the program
 -----------------
 
-To add files, click the “Add File” button the fille you select will add the list, you can also do the same for “Add Folder” button any folders you add will also includes any files or folders inside it so everything gets backed up.  
+To add files, click the “Add File” button the fille you select will add the list, you can also do the same for “Add Folder” button any folders you add will also includes any files or folders inside it so everything gets backed up.
+
 Once you set a backup location you can then click the “Run” button eventing will then be compressed and saved to a zip file.
 
 Other Stuff
@@ -17,7 +18,7 @@ Feels free to fork the project and make your own changes and additions lets us k
 Some important notes
 --------------------
 
-You need to include the library from Ionic.Zip in the dame folder as the application. You also need to make sure you have the .NET framework 4.5 or latter.
+You need to include the library from Ionic.Zip in the same folder as the application. You also need to make sure you have the .NET framework 4.5 or latter.
 
 # Screenshot
 
